@@ -29,4 +29,12 @@ En el campo o caja de texto color blanco, donde indica "Escribir un nombre", es 
 ![image](https://github.com/user-attachments/assets/79e4d8a3-fb10-40ea-bcdb-91033a874098)
 
 Damos click en el boton colo gris "Añadir", el cual nos añadira el nombre y se iran mostrnando en una lista.
+![image](https://github.com/user-attachments/assets/7b326344-b3fa-4848-8a14-255f1176f9c6)
+
+Al tener una lista con varios nombres ya agregados debemos de dar click en el boton colo naranja "Sortear amigo"
+![image](https://github.com/user-attachments/assets/ba9307e0-455f-4780-b27a-972bd3b43866)
+
+Al haber dado click en el boton "Sortear amigo", mostrara un mensaje con el nombre del amigo seleccionado aleatoriamente.
+![image](https://github.com/user-attachments/assets/89c4ed02-20cc-4a69-9b49-c4910116d06e)
+
 
