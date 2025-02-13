@@ -28,6 +28,9 @@ primero el usuario debe de ingresar al programa web, la cual la siguiente imagen
 En el campo o caja de texto color blanco, donde indica "Escribir un nombre", es donde escribiremos los nombres.
 ![image](https://github.com/user-attachments/assets/79e4d8a3-fb10-40ea-bcdb-91033a874098)
 
+Si da click en el boton de "Añadir" sin haber escrito un nombre, saldra un mensaje indicando agregue un nombre.
+![image](https://github.com/user-attachments/assets/121cf146-64aa-4f6d-bba8-dad080db16df)
+
 Damos click en el boton colo gris "Añadir", el cual nos añadira el nombre y se iran mostrnando en una lista.
 ![image](https://github.com/user-attachments/assets/7b326344-b3fa-4848-8a14-255f1176f9c6)
 
@@ -37,4 +40,6 @@ Al tener una lista con varios nombres ya agregados debemos de dar click en el bo
 Al haber dado click en el boton "Sortear amigo", mostrara un mensaje con el nombre del amigo seleccionado aleatoriamente.
 ![image](https://github.com/user-attachments/assets/89c4ed02-20cc-4a69-9b49-c4910116d06e)
 
+Si da click en el boton "Sortear amigo" sin tener nombres agregados a la lista, mostrara un mensaje informativo.
+![image](https://github.com/user-attachments/assets/cee4d66e-26ed-441d-8743-9dbdcbd711a0)
 
