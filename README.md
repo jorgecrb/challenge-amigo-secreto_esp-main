@@ -20,3 +20,13 @@ lo agregarán a una lista visible al hacer clic en "Adicionar".
 
 4. Sorteo aleatorio: Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista
  y se mostrará en la página.
+
+Cómo pueden usarlo los usuarios
+primero el usuario debe de ingresar al programa web, la cual la siguiente imagen es la pantalla del programa.
+![image](https://github.com/user-attachments/assets/fc52fbd6-6832-4d74-9dca-8902f3d1e99e)
+
+En el campo o caja de texto color blanco, donde indica "Escribir un nombre", es donde escribiremos los nombres.
+![image](https://github.com/user-attachments/assets/79e4d8a3-fb10-40ea-bcdb-91033a874098)
+
+Damos click en el boton colo gris "Añadir", el cual nos añadira el nombre y se iran mostrnando en una lista.
+
