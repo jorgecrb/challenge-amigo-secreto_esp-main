@@ -43,3 +43,4 @@ Al haber dado click en el boton "Sortear amigo", mostrara un mensaje con el nomb
 Si da click en el boton "Sortear amigo" sin tener nombres agregados a la lista, mostrara un mensaje informativo.
 ![image](https://github.com/user-attachments/assets/cee4d66e-26ed-441d-8743-9dbdcbd711a0)
 
+Derechos reservados "Jorge Carballo"
